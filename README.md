@@ -5,7 +5,6 @@ A lightweight, automated Bash script designed for quick network reconnaissance a
 ## 📌 Features
 * 🔍 **IP Lookup:** Automatically extracts the target domain's IP address using `dig`.
 * 🌐 **DNS Records:** Fetches Name Server (NS) records instantly.
-* 📋 **WHOIS Filtering:** Gathers essential WHOIS information (Registrar, Creation/Expiry dates, Organization) without the clutter.
 
 ## 🛠️ Installation & Usage
 
