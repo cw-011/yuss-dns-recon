@@ -11,7 +11,7 @@ A lightweight, automated Bash script designed for quick network reconnaissance a
 
 ```bash
 # Clone the repository (or just copy the script)
-git clone [https://github.com/cw-011/yuss-dns-recon.git](https://github.com/cw-011/yuss-dns-recon.git)
+git clone https://github.com/cw-011/yuss-dns-recon.git
 
 # Move into the directory
 cd yuss-dns-recon
